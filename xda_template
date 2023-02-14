@@ -1,0 +1,53 @@
+[ATTACH type="full" alt="photo_2023-02-14_13-54-09.jpg"]5836115[/ATTACH]
+[CENTER][B][SIZE=4]AlphaDroid is a custom ROM based on crDroid, with a new look and some extra features and optimizations.[/SIZE][/B]
+[/CENTER]
+
+[QUOTE]
+[B]* Your warranty is now void.
+* I am not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels.
+* You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.[/B]
+[/QUOTE]
+[HEADING=2][/HEADING]
+[HEADING=2][B][U][COLOR=rgb(97, 189, 109)][SIZE=5]WHAT WORKS?[/SIZE][/COLOR][/U][/B][/HEADING]
+[B][SIZE=4]Everything.[/SIZE]
+
+[U][SIZE=5][COLOR=rgb(97, 189, 109)]KNOWN ISSUES:[/COLOR][/SIZE][/U]
+[SIZE=4]U tell me?[/SIZE][/B]
+[CENTER]
+
+[I][B][SIZE=5]GAPPS & VANILLA VARIANT AVAILABLE ([/SIZE][/B][/I][B][SIZE=5][I]Links Updated[/I][/SIZE][/B][I][B][SIZE=5])[/SIZE][/B][/I]
+
+[URL='https://sourceforge.net/projects/alphadroid-project/files/davinci/AlphaDroid-20230213-davinci-full_gapps-v1.2.zip/download'][SIZE=4][B][COLOR=rgb(84, 172, 210)]DOWNLOAD GAPPS VERSION - With MIUICAMERA[/COLOR][/B][/SIZE][/URL] (Includes Gapps)
+[B][SIZE=4]DOWNLOAD VANILLA VERSION - With MIUICAMERA [/SIZE][/B] (Use Nikgapps package)[/CENTER]
+
+[SIZE=5]# Nikgapps Recommended for Vanilla Variant.
+# Don't flash Gapps on Gapps Variant[/SIZE]
+
+
+[COLOR=rgb(251, 160, 38)][B][SIZE=6]CLEAN FLASH :[/SIZE][/B][/COLOR]
+[SIZE=5]-Reboot to recovery (Use the provided Recovery for F2FS Compression to work)
+-Flash your firmware(If required)
+-Flash the ROM
+-Format Data
+-Reboot[/SIZE]
+
+[COLOR=rgb(251, 160, 38)][B][SIZE=6]DIRTY FLASH :[/SIZE][SIZE=4] (Possible from Gapps version to Gapps and Vanilla to Vanilla)[/SIZE][/B][/COLOR]
+[SIZE=4]- Reboot to recovery
+- Flash Rom
+- Reboot[/SIZE]
+
+[URL='https://photos.app.goo.gl/ffs9p5u82xora2oE8'][B][COLOR=rgb(97, 189, 109)][SIZE=7]Screenshots[/SIZE][/COLOR][/B][/URL]
+[SIZE=5][B][COLOR=rgb(247, 218, 100)]Use Recovery (Unofficial TWRP):[/COLOR] [/B][/SIZE][COLOR=rgb(184, 49, 47)][URL='https://miracle.girlswithout.top/recoveries/TWRP/fbev1/twrp_davinci-3.6.2p-260822.img'][SIZE=5][B]Download[/B][/SIZE][/URL][/COLOR]
+[URL='https://t.me/cherishos_davinci'][SIZE=5][B][COLOR=rgb(247, 218, 100)]Support Group[/COLOR][/B][/SIZE][/URL]
+
+[B][SIZE=4]AlphaDroid for Xiaomi Mi 9T[/SIZE][/B]
+[SIZE=4][B]Maintainer: Rumais
+Build Type: Official
+ROM Kernel:[/B] Linux 4.14.305
+[B]ROM Firmware Required:[/B] Latest china fw 12.5.2 Recommended.
+[B]Based On:[/B] AOSP
+[B]Android OS version:[/B] 13
+[B]Release Date: 13.02.2023
+Security patch level:[/B] February 2023
+[B]Build author: t.me/hopethislasts
+Kernel Source: [/B][/SIZE][URL='https://github.com/helliscloser/kernel_xiaomi_sm6150'][SIZE=4]https://github.com/helliscloser/kernel_xiaomi_sm6150[/SIZE][/URL]
